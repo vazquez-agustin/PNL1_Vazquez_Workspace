@@ -1,0 +1,12 @@
+# Archivos grandes de datos / embeddings
+Desafio_4/gloveembedding.pkl
+Desafio_4/spa-eng.zip
+Desafio_4/spa-eng/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
